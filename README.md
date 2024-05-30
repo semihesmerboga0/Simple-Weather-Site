@@ -10,7 +10,7 @@ Unsplash API: Supplies a random photo related to the entered city.
 
 This project is designed to make it easy to view weather information and provide a visual experience related to cities.
 
-![](https://github.com/Simple-Weather-Site/images/mainscreen.gif)
+![](https://github.com/semihesmerboga0/Simple-Weather-Site/blob/main/images/mainscreen.gif?raw=true)
 
 # Installation
 
