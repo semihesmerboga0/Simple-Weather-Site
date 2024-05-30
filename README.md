@@ -31,6 +31,12 @@ Note : You can use it in any application other than xampp
 
 -Open the Apache service from the xampp application and enter localhost.
 
+# License
+
+This project is licensed under the MIT License.
+
+
+
 
 
 
